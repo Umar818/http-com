@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ed66e6; /* Default background color */
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: black;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .green {
+    background-color: green;
+    color: white;
+  }
+  
+  .red {
+    background-color: red;
+    color: white;
+  }
+  
+  .blue {
+    background-color: blue;
+    color: white;
+  }
+  
+  .pink {
+    background-color: pink;
+    color: white;
+}
+  .final-page h1 {
+    font-family: Bradley Hand;
+  }
+  
+  .blow-page, .die-page {
+    background-color: #f78502;
+  }
+  
+  .die-page h1 {
+    color: white;
+  }
+  
+  .blow-page #timer {
+    font-size: 50px;
+  }
